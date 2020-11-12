@@ -1,0 +1,7 @@
+[
+  {"name": "apple", "color": "yellow", "test":  "test"},
+  {"name": "apple", "color": "red"},
+  {"name": "banana", "color": "yellow"},
+  {"name": "kiwi", "color": "green"},
+  {"name": "watermelon", "color": "white"}
+]
