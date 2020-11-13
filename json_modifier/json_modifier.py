@@ -23,7 +23,7 @@ class JsonModifier:
 
         for input_item in input_data:
             for update_item in update_data:
-                if input_item[self._id_field] == update_item[self._id_field]:  # modify by first attribute in a record
+                if input_item[self._id_field] == update_item[self._id_field]:
                     input_item.update(update_item)
             result_data.append(input_item)
 
